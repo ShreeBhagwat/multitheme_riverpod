@@ -1,16 +1,9 @@
 # multitheme_riverpod
 
-A new Flutter project.
+A Flutter project that uses Riverpod 2.0.2 to switch between multiple theme inside the application to help user customise the application as they want. 
 
-## Getting Started
+# MultiTheme App
+![](https://github.com/ShreeBhagwat/multitheme_riverpod/blob/master/multi-theme.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Blog
+![Multi Theme using riverpod in Flutter](https://medium.com/@shreebhagwat94/multi-themes-using-riverpod-in-flutter-4ec5e3dbf256)
